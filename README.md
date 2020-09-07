@@ -32,3 +32,4 @@ Collection of web design patterns
 - https://blog.datawrapper.de/beautifulcolors
 - https://stripe.com/blog/accessible-color-systems
 - https://www.vis4.net/blog/2011/12/avoid-equidistant-hsv-colors/
+- Palette Builder https://tailwind.ink/
