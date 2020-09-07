@@ -26,6 +26,7 @@ Collection of web design patterns
   - List: https://www.webaxe.org/accessible-date-pickers/
   - https://github.com/vigetlabs/ca11y
   - https://fymmot.github.io/inclusive-dates/
+  - https://designsystem.gov.scot/components/date-picker/
 
 ## Colour Theory
 - https://blog.datawrapper.de/beautifulcolors
