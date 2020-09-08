@@ -2,6 +2,8 @@
 Collection of web design patterns
 
 ## Asistive devices
+### Keyboard
+- (Mac accessibility shortcuts](https://support.apple.com/en-ca/HT204434)
 ### Screen Readers
 - [JAWS](https://www.freedomscientific.com/Products/software/JAWS/) (Job Access With Speech) for Windows
 - [NVDA](https://www.nvaccess.org/about-nvda/) (Non-Visual Desktop Access) for Windows
@@ -17,7 +19,7 @@ Collection of web design patterns
 
 
 
-## Component Examples
+## Component/Pattern Examples
 
 - Hamberger Menu: https://www.impressivewebs.com/accessible-keyboard-friendly-hamburger-menu-slide-out-navigation/
 - Charts: https://blogs.sas.com/content/sascom/2017/02/22/getting-started-sas-graphics-accelerator/
@@ -28,6 +30,7 @@ Collection of web design patterns
   - https://fymmot.github.io/inclusive-dates/
   - https://designsystem.gov.scot/components/date-picker/
 - `abbr`: https://alistapart.com/article/hattrick/
+- Back to top button: `Home` or `Fn` + `Left Arrow`
 
 
 ## Colour Theory
