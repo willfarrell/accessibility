@@ -3,7 +3,8 @@ Collection of web design patterns
 
 ## Asistive devices
 ### Keyboard
-- (Mac accessibility shortcuts](https://support.apple.com/en-ca/HT204434)
+- [Mac accessibility shortcuts](https://support.apple.com/en-ca/HT204434)
+- Back to top button: `Home` or `Fn` + `Left Arrow`
 ### Screen Readers
 - [JAWS](https://www.freedomscientific.com/Products/software/JAWS/) (Job Access With Speech) for Windows
 - [NVDA](https://www.nvaccess.org/about-nvda/) (Non-Visual Desktop Access) for Windows
@@ -30,8 +31,6 @@ Collection of web design patterns
   - https://fymmot.github.io/inclusive-dates/
   - https://designsystem.gov.scot/components/date-picker/
 - `abbr`: https://alistapart.com/article/hattrick/
-- Back to top button: `Home` or `Fn` + `Left Arrow`
-
 
 ## Colour Theory
 - https://blog.datawrapper.de/beautifulcolors
