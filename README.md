@@ -31,6 +31,7 @@ Collection of web design patterns
   - https://fymmot.github.io/inclusive-dates/
   - https://designsystem.gov.scot/components/date-picker/
 - `abbr`: https://alistapart.com/article/hattrick/
+- Math Formulas: https://github.com/mathjax/MathJax-src
 
 ## Colour Theory
 - https://blog.datawrapper.de/beautifulcolors
