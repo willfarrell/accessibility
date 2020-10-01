@@ -21,7 +21,7 @@ Collection of web design patterns
 
 
 ## Component/Pattern Examples
-
+- Resources: https://a11yresources.webflow.io
 - Hamberger Menu: https://www.impressivewebs.com/accessible-keyboard-friendly-hamburger-menu-slide-out-navigation/
 - Charts: https://blogs.sas.com/content/sascom/2017/02/22/getting-started-sas-graphics-accelerator/
 - Slider: https://www.a11ywithlindsey.com/blog/creating-accessible-range-slider-css
@@ -30,6 +30,7 @@ Collection of web design patterns
   - https://github.com/vigetlabs/ca11y
   - https://fymmot.github.io/inclusive-dates/
   - https://designsystem.gov.scot/components/date-picker/
+  - https://github.com/duetds/date-picker
 - `abbr`: https://alistapart.com/article/hattrick/
 - Math Formulas: https://github.com/mathjax/MathJax-src
 
