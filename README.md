@@ -39,3 +39,4 @@ Collection of web design patterns
 - https://stripe.com/blog/accessible-color-systems
 - https://www.vis4.net/blog/2011/12/avoid-equidistant-hsv-colors/
 - Palette Builder https://tailwind.ink/
+- Adobe Color https://color.adobe.com/create/color-accessibility
