@@ -25,6 +25,7 @@ Collection of web design patterns
 - Hamberger Menu: https://www.impressivewebs.com/accessible-keyboard-friendly-hamburger-menu-slide-out-navigation/
 - Charts: https://blogs.sas.com/content/sascom/2017/02/22/getting-started-sas-graphics-accelerator/
 - Slider: https://www.a11ywithlindsey.com/blog/creating-accessible-range-slider-css
+- dialog: https://adrianroselli.com/2020/10/dialog-focus-in-screen-readers.html
 - Date Picker: 
   - List: https://www.webaxe.org/accessible-date-pickers/
   - https://github.com/vigetlabs/ca11y
