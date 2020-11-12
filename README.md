@@ -22,6 +22,7 @@ Collection of web design patterns
 
 ## Component/Pattern Examples
 - Resources: https://a11yresources.webflow.io
+- gif: https://css-tricks.com/gifs-and-prefers-reduced-motion/
 - Hamberger Menu: https://www.impressivewebs.com/accessible-keyboard-friendly-hamburger-menu-slide-out-navigation/
 - Charts: https://blogs.sas.com/content/sascom/2017/02/22/getting-started-sas-graphics-accelerator/
 - Slider: https://www.a11ywithlindsey.com/blog/creating-accessible-range-slider-css
