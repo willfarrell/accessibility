@@ -14,7 +14,17 @@ Collection of web design patterns
 - Inconsistencies
   - [Punctuation and Typographic Symbols](https://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols/)
   - 
-
+  
+## Colour Theory
+- https://blog.datawrapper.de/beautifulcolors
+- https://stripe.com/blog/accessible-color-systems
+- https://www.vis4.net/blog/2011/12/avoid-equidistant-hsv-colors/
+- https://uxdesign.cc/the-importance-of-colorblind-friendly-design-case-study-among-us-dcd042c87b9
+- Palette Builder https://tailwind.ink/
+- Adobe Color https://color.adobe.com/create/color-accessibility
+- (ColorBrewer](https://colorbrewer2.org/#type=diverging&scheme=RdYlBu&n=11) ccolor advice for artography
+- [ColorAdd](http://www.coloradd.net/code.asp)
+- [Coblis - Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
 
 ## Component Design Systems
 
@@ -36,9 +46,4 @@ Collection of web design patterns
 - `abbr`: https://alistapart.com/article/hattrick/
 - Math Formulas: https://github.com/mathjax/MathJax-src
 
-## Colour Theory
-- https://blog.datawrapper.de/beautifulcolors
-- https://stripe.com/blog/accessible-color-systems
-- https://www.vis4.net/blog/2011/12/avoid-equidistant-hsv-colors/
-- Palette Builder https://tailwind.ink/
-- Adobe Color https://color.adobe.com/create/color-accessibility
+
