@@ -39,6 +39,7 @@ Collection of web design patterns
 - Charts: https://blogs.sas.com/content/sascom/2017/02/22/getting-started-sas-graphics-accelerator/
 - Slider: https://www.a11ywithlindsey.com/blog/creating-accessible-range-slider-css
 - dialog: https://adrianroselli.com/2020/10/dialog-focus-in-screen-readers.html
+- Scroll to top: https://ashleemboyer.com/accessible-smooth-scroll-to-top-buttons-with-little-code
 - Date Picker: 
   - List: https://www.webaxe.org/accessible-date-pickers/
   - https://github.com/vigetlabs/ca11y
