@@ -35,6 +35,7 @@ Collection of web design patterns
 - gif: https://css-tricks.com/gifs-and-prefers-reduced-motion/
 - auto-site `textarea`: https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/
 - Hamberger Menu: https://www.impressivewebs.com/accessible-keyboard-friendly-hamburger-menu-slide-out-navigation/
+- Form Buttons: https://adamsilver.io/articles/where-to-put-buttons-on-forms/
 - Charts: https://blogs.sas.com/content/sascom/2017/02/22/getting-started-sas-graphics-accelerator/
 - Slider: https://www.a11ywithlindsey.com/blog/creating-accessible-range-slider-css
 - dialog: https://adrianroselli.com/2020/10/dialog-focus-in-screen-readers.html
