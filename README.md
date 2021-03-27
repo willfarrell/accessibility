@@ -31,6 +31,7 @@ Collection of web design patterns
 
 
 ## Component/Pattern Examples
+- Guide: https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/
 - Resources: https://a11yresources.webflow.io
 - gif: https://css-tricks.com/gifs-and-prefers-reduced-motion/
 - auto-site `textarea`: https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/
